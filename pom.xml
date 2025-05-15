@@ -25,7 +25,7 @@
         <annotations-java5.version>19.0.0</annotations-java5.version>
         <hamcrest.version>2.2</hamcrest.version>
         <slf4j-simple.version>1.7.30</slf4j-simple.version>
-        <webdrivermanager.version>3.8.1</webdrivermanager.version>
+        <webdrivermanager.version>6.1.0</webdrivermanager.version>
         <aspectj.version>1.9.5</aspectj.version>
         <commons-collections4.version>4.4</commons-collections4.version>
         <allure-junit5.version>2.13.2</allure-junit5.version>
